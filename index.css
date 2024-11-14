@@ -1,0 +1,30 @@
+table
+{
+    border-collapse: collapse;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+thead {
+background-color: rgba(0,152,121,255);
+color: rgba(253,253,253,255);
+}
+thead th{
+    padding: 10px ;
+}
+tbody{
+    background-color:rgba(255,255,255,255) ;
+}
+tbody td{
+    padding: 10px;
+}
+#Castro {
+    background-color: rgba(243,243,243,255);
+    color:rgba(0,152,121,255) ;
+    font-weight: bold
+    ;
+}
+tfoot{
+    border-bottom: 3px solid rgba(0,152,121,255);
+}
+
